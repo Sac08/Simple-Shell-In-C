@@ -15,6 +15,6 @@ A command line Shell, which is mainly developed to understand the process in lin
   ```
   
 ## Features
-*Basic commands: exit, pwd, clear and cd.
-*almost all internal commands are implemented.
-*Correctly handle CTRL-C (SIGINT) and CTRL-D (EOF) (same behaviour as Bash).
+* Basic commands: exit, pwd, clear and cd.
+* almost all internal commands are implemented.
+* Correctly handle CTRL-C (SIGINT) and CTRL-D (EOF) (same behaviour as Bash).
